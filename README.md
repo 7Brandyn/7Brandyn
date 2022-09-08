@@ -1,20 +1,25 @@
 <h1 align="center">Hi 👋, I'm Brandyn</h1>
-<h3 align="center">A passionate Web Developer & Designer located in the Bay Area!</h3>
+<h3 align="center">About Me: 😎</h3>
+<p align="center">I'm a passionate Web Developer with an extensive background in Digital Media Development, Music Production, Video Production, and UI Design. Ever since I was a kid I've loved learning and solving complex problems, especially when I can actually <i>see</i> my results which is probably what led me to start my development journey as a Front-End Developer. I plan on creating a video-resume VERY soon stating what it is specifically that I do, what I am after, and how I have helped many brands launch successful businesses (which I will gladly post here once finished). </p>
 
-<h3>About Me:</h3>
+Check out my latest project [here][project]
+
+<br>
+
+<h3>🏃 Rundown:</h3>
 
 - 🔭 Check out my Digital Media Platform: [Ceneqa Studios][website]!
 
-- 🌱 I’m currently learning ReactJS, NodeJS, PHP, and UX/UI Principles 😎
+- 🌱 I’m currently learning ReactJS, NodeJS, PHP, and UX/UI Principles
 
-- 👯 I’m looking to collaborate with other developers, designers, and startups.
+- 👯 I’m looking to collaborate with other developers, designers, and company founders to see how I can contribute to their success.
 
-- 🥅 2022 Goals: Launch more paid websites and learn more JavaScript (as always)!
+- 🥅 2022 Goals: Launch more stunning websites and learn much more than I did yesterday (as always)!
 
-- ⚡ Fun fact: I once moved from Washington D.C. to Utah...on a bicycle. 🚴 (Only took a month.)
-
+- ⚡ Fun fact: I moved from Washington D.C. to Utah...on a bicycle. 🚴
 <br>
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">🌎 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/in/brandyn-evans/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/brandyn-evans/" height="30" width="40" /></a>
 <a href="https://instagram.com/@dynn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@dynn" height="30" width="40" /></a>
@@ -23,7 +28,7 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🔨 Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -58,7 +63,7 @@
 
 
 
-<h3 align="left">Support:</h3>
+<h3 align="left">❤️ Support:</h3>
 <p><a href="https://www.buymeacoffee.com/brandynevans"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="brandynevans" /></a></p>
 <br>
 <br>
@@ -70,3 +75,4 @@
 
 
 [website]: https://ceneqa.com
+[project]: https://spiffy-pavlova-82c33d.netlify.app
