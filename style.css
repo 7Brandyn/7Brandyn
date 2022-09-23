@@ -239,7 +239,6 @@ input[type=email], select, textarea {
   border: 0px solid var(--secondary-color);
   border-radius: 8px; 
   box-sizing: border-box; 
-  margin-top: 8px; 
   margin-bottom: 16px;
   resize: vertical;
 }
