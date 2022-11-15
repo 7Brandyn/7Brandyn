@@ -2,7 +2,7 @@
 <h3 align="center">About Me: 😎</h3>
 <p align="center">I'm a passionate Web Developer with an extensive background in Digital Media Development, Music Production, Video Production, and UI Design. Ever since I was a kid I've loved learning and solving complex problems, especially when I can actually <i>see</i> my results which is probably what led me to start my development journey as a Front-End Developer. I plan on creating a video-resume VERY soon stating what it is specifically that I do, what I am after, and how I have helped many brands launch successful businesses (which I will gladly post here once finished). </p>
 
-Check out my latest project [here][project]
+Check out my latest projects [here][project]
 
 <br>
 
@@ -75,4 +75,4 @@ Check out my latest project [here][project]
 
 
 [website]: https://ceneqa.com
-[project]: https://spiffy-pavlova-82c33d.netlify.app
+[project]: https://imbrandyn.netlify.app
